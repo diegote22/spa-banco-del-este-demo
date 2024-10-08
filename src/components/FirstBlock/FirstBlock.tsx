@@ -18,7 +18,10 @@ export function FirstBlock() {
                             <span className="block degradedBlue bg-blueLight">
                                 banco digital
                             </span>
-                            para todos
+                            para todo 
+                            <span className="block degradedBlue bg-blueLight">
+                                el Este Mendocino
+                            </span>
                         </h1>
                     </Reveal>
                     <Reveal>
@@ -34,7 +37,7 @@ export function FirstBlock() {
                     </Reveal>
                 </div>
                 <MotionTransition className="flex items-center justify-center">
-                    <Image src="/assets/cards-block.png" alt="Card" width={450} height={450} className="h-auto w-72 md:w-full" />
+                    <Image src="/assets/block-cards.png" alt="Card" width={550} height={550} className="h-auto w-72 md:w-full" />
                 </MotionTransition>
             </div>
         </div>

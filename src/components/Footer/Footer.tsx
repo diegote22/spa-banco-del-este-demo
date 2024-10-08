@@ -9,7 +9,7 @@ export function Footer() {
         <div className="max-w-5xl p-6 mx-auto mt-10 md:-mt-40">
             <div className="justify-between md:flex">
                 <div>
-                    <Image src="/assets/logo.png" width={200} height={40} alt="Logo Bank" />
+                    <Image src="/assets/logo_3.png" width={200} height={40} alt="Logo Bank" />
                     <Reveal>
                         <p className="mt-5 text-primaryDark max-w-[250px]">Una nueva forma de hacer pagos de forma sencilla</p>
                     </Reveal>
@@ -33,7 +33,7 @@ export function Footer() {
             <div className="items-center justify-between md:flex">
                 <div className="my-3">
                     <Reveal>
-                        2023 Boras Bank. All Rights Reserved.
+                        @2024 Diegote Dev 
                     </Reveal>
                 </div>
                 <div className="flex gap-5">
